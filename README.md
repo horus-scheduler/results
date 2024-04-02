@@ -27,9 +27,9 @@ Data for each scenario's is under a separate folder.
 
  
 >File naming convention notes: 
-1. "db_bimodal": refers to RocksDB workload with 90%GET 10%SCAN distribution.
-2. "db_port_bimodal": refers to the RocksDB workload with 50%GET-50%SAN distribution.
-3. "Saqr": Some of the old collected data still might refer to Horus as Saqr policy. 
+>1. "db_bimodal": refers to RocksDB workload with 90%GET 10%SCAN distribution.
+>2. "db_port_bimodal": refers to the RocksDB workload with 50%GET-50%SAN distribution.
+>3. "Saqr": Some of the old collected data still might refer to "Horus" as "Saqr" policy. 
 
 ---
 
